@@ -1,0 +1,58 @@
+/* Style for the sidebar */
+[data-testid="stSidebar"] {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-right: 1px solid #e0e0e0;
+}
+
+/* Style for the title */
+h1 {
+    font-family: 'Arial', sans-serif;
+    color: #4a4a4a;
+    font-weight: 600;
+}
+
+/* Style for the subheader */
+h2 {
+    font-family: 'Arial', sans-serif;
+    color: #6c757d;
+    font-weight: 500;
+}
+
+/* Style for text */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #343a40;
+}
+
+/* Style for container */
+[data-testid="stContainer"] {
+    padding: 20px;
+}
+
+/* Style for columns */
+.st-cb, .st-co, .st-cn, .st-ci, .st-cl, .st-cm {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the slider labels */
+.css-145kmo2 .st-dm {
+    color: #495057;
+    font-weight: 500;
+}
+
+/* Style for the slider values */
+.css-145kmo2 .st-dk {
+    color: #007bff;
+    font-weight: 600;
+}
+
+/* Style for the prediction text */
+[data-testid="stMarkdownContainer"] {
+    font-family: 'Arial', sans-serif;
+    color: #212529;
+    font-weight: 500;
+}
